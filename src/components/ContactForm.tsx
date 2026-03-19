@@ -81,27 +81,20 @@ const ContactForm = ({ propertyName }: ContactFormProps) => {
 
       <div className="mt-6 pt-6 border-t border-border space-y-3">
         <a
-          href="https://wa.me/5511999999999"
+          href="https://wa.me/5511910456624"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-3 text-sm text-muted-foreground hover:text-gold transition-colors"
         >
           <MessageCircle className="h-4 w-4 text-gold" />
-          WhatsApp
+          WhatsApp: (11) 91045-6624
         </a>
         <a
-          href="tel:+5511999999999"
+          href="tel:+5511910456624"
           className="flex items-center gap-3 text-sm text-muted-foreground hover:text-gold transition-colors"
         >
           <Phone className="h-4 w-4 text-gold" />
-          (11) 99999-9999
-        </a>
-        <a
-          href="mailto:contato@exemplo.com"
-          className="flex items-center gap-3 text-sm text-muted-foreground hover:text-gold transition-colors"
-        >
-          <Mail className="h-4 w-4 text-gold" />
-          contato@exemplo.com
+          (11) 91045-6624
         </a>
       </div>
     </motion.div>
