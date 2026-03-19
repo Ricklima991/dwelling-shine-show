@@ -183,7 +183,7 @@ const PropertyDetail = () => {
       <footer className="border-t border-border bg-card py-8 mt-12">
         <div className="container mx-auto px-4 text-center">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Imóveis Premium — Todos os direitos reservados
+            © {new Date().getFullYear()} — Todos os direitos reservados
           </p>
         </div>
       </footer>

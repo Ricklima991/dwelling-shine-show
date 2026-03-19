@@ -13,7 +13,7 @@ const Header = () => {
         <Link to="/" className="flex items-center gap-2 group">
           <Building2 className="h-6 w-6 text-gold" />
           <span className="font-serif text-xl font-semibold text-foreground group-hover:text-gold transition-colors">
-            Imóveis Premium
+            Empreendimentos
           </span>
         </Link>
 
